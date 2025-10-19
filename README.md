@@ -7,49 +7,57 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-🎓 Final-year IT Engineering student at ESPRIT, Tunisia  
-💻 Passionate about building production-ready platforms that solve real-world problems  
-🧠 Focused on AI-driven automation, smart agriculture, and scalable cloud systems  
-🎨 Obsessed with clean architecture, responsive UI, and technical documentation
-
----
-
-### 🔭 Current Projects
-
-- **AGRIORBIT** – AI-powered smart agriculture system (TSYP 12 Technical Challenge)
-- **MILIM** – Accounting automation platform for Tunisian SMEs
-- **Troc Express** – Multi-platform e-commerce system (Web, Desktop, Mobile)
+- 🎓 Final-year IT Engineering student at ESPRIT, Tunisia  
+- 💻 Passionate about building production-ready platforms that solve real-world problems  
+- 🧠 Focused on AI-driven automation, smart agriculture, and scalable cloud systems  
+- 🎨 Obsessed with clean architecture, responsive UI, and technical documentation
 
 ---
 
-### 🛠️ Tech Stack
+## 🔭 Current Projects
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**Backend & DevOps:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- 🌾 **AGRIORBIT** – AI-powered smart agriculture system (TSYP 12 Technical Challenge)
+- 📊 **MILIM** – Accounting automation platform for Tunisian SMEs
+- 🛍️ **Troc Express** – Multi-platform e-commerce system (Web, Desktop, Mobile)
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧩 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🔧 Backend & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boudali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -58,7 +66,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/said-ahmed-boudali" target="_blank">
