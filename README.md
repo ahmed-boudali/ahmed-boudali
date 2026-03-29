@@ -18,18 +18,7 @@
 
 ---
 
-  ┌─ STRATEGY METRICS ───────────────────────────────────────────┐
-  │  Strategy Type  │  Scalping + Trend Following                │
-  │  Instruments    │  XAU/USD (Gold)                            │
-  │  Execution      │  Automated · Python · Broker APIs          │
-  │  Risk Mgmt      │  Dynamic stop-loss · Position sizing       │
-  │  Outcome        │  ↑ Measurable daily revenue improvement    │
-  └──────────────────────────────────────────────────────────────┘
-```
 
-</div>
-
----
 
 ## 🧠 `About Me`
 
@@ -39,9 +28,9 @@
   I build things that matter — from AI-powered enterprise platforms
   to automated trading systems that run while you sleep.
 
-  Currently deep in: distributed systems · financial modeling · LLM integration
-  Learning:          quantitative finance · stochastic calculus · market microstructure
-  Repping:           Tunisia 🇹🇳 · ESPRIT · IEEE 
+  Currently deep in:  distributed systems · financial modeling · LLM integration
+  Learning:           quantitative finance · stochastic calculus · market microstructure
+  Repping:            Tunisia 🇹🇳 · ESPRIT · IEEE AESS
 ```
 
 ---
@@ -126,17 +115,17 @@ Healthcare user management with role-based access (Doctors / Patients / Admins).
 ## 🌍 `International Experience`
 
 ```
-┌─ Verona, Italy 🇮🇹 · Jun–Jul 2025 ──────────────────────────────────────┐
-│                                                                          │
-│  "Our Future – Young People, the Future is Plural" · Progettomondo      │
-│                                                                          │
-│  → Led workshops on Artificial Intelligence, LLMs & Generative AI       │
-│  → Delivered dev talks: software engineering & digital innovation        │
-│  → Co-designed a Global Education program for 100+ youth                │
-│  → Represented Tunisia alongside Italy & Morocco NGOs                   │
-│                                                                          │
-│  Published: progettomondo.org/giovani-il-futuro-e-plurale               │
-└──────────────────────────────────────────────────────────────────────────┘
+  ┌─ Verona, Italy 🇮🇹 · Jun–Jul 2025 ───────────────────────────────────┐
+  │                                                                       │
+  │  "Our Future – Young People, the Future is Plural" · Progettomondo   │
+  │                                                                       │
+  │  → Led workshops on Artificial Intelligence, LLMs & Generative AI    │
+  │  → Delivered dev talks: software engineering & digital innovation     │
+  │  → Co-designed a Global Education program for 100+ youth             │
+  │  → Represented Tunisia alongside Italy & Morocco NGOs                │
+  │                                                                       │
+  │  progettomondo.org/giovani-il-futuro-e-plurale                       │
+  └───────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -167,5 +156,7 @@ Healthcare user management with role-based access (Doctors / Patients / Admins).
 ---
 
 <div align="center">
+
+*📌 Make sure `chart.svg` is committed to the root of your `ahmed-boudali/ahmed-boudali` repo.*
 
 </div>
