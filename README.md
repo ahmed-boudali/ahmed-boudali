@@ -18,15 +18,6 @@
 
 ---
 
-## 📡 Live Market – `XAU/USD • Algo Active`
-
-> *This chart reflects the timeframe in which I designed and deployed automated trading strategies for Tunisian market clients — resulting in measurable daily revenue improvements.*
-
-![XAU/USD Chart](./chart.svg)
-
-<div align="center">
-
-```
   ┌─ STRATEGY METRICS ───────────────────────────────────────────┐
   │  Strategy Type  │  Scalping + Trend Following                │
   │  Instruments    │  XAU/USD (Gold)                            │
@@ -176,7 +167,5 @@ Healthcare user management with role-based access (Doctors / Patients / Admins).
 ---
 
 <div align="center">
-
-*📌 Commit the `chart.svg` file to your repo root alongside this README for the chart to render.*
 
 </div>
