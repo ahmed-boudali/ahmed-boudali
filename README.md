@@ -1,86 +1,182 @@
-<h1 align="center">Hi 👋, I'm Said Ahmed Boudali</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 AI-Powered Web Platforms | 🌍 Scalable Backend Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-boudali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-boudali" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║   SAID AHMED BOUDALI  ·  TERMINAL v1.0  ·  FULL-STACK + FINTECH    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
----
+# `$ whoami`
 
-## 💫 About Me
+**Engineer.** **Builder.** **Quant.**
 
-- 🎓 Final-year IT Engineering student at ESPRIT, Tunisia  
-- 💻 Passionate about building production-ready platforms that solve real-world problems  
-- 🧠 Focused on AI-driven automation, smart agriculture, and scalable cloud systems  
-- 🎨 Obsessed with clean architecture, responsive UI, and technical documentation
+![Profile views](https://komarev.com/ghpvc/?username=ahmed-boudali&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-ahmed-boudali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:w.saidahmed.boudali@gmail.com)
 
----
-
-## 🔭 Current Projects
-
-- 🌾 **AGRIORBIT** – AI-powered smart agriculture system (TSYP 12 Technical Challenge)
-- 📊 **MILIM** – Accounting automation platform for Tunisian SMEs
-- 🛍️ **Troc Express** – Multi-platform e-commerce system (Web, Desktop, Mobile)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📡 Live Market – `XAU/USD • Algo Active`
 
-### 👨‍💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+> *This chart reflects the timeframe in which I designed and deployed automated trading strategies for Tunisian market clients — resulting in measurable daily revenue improvements.*
 
-### 🧩 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+![XAU/USD Chart](./chart.svg)
 
-### 🔧 Backend & DevOps  
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+<div align="center">
 
-### 🗄️ Databases  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+```
+  ┌─ STRATEGY METRICS ───────────────────────────────────────────┐
+  │  Strategy Type  │  Scalping + Trend Following                │
+  │  Instruments    │  XAU/USD (Gold)                            │
+  │  Execution      │  Automated · Python · Broker APIs          │
+  │  Risk Mgmt      │  Dynamic stop-loss · Position sizing       │
+  │  Outcome        │  ↑ Measurable daily revenue improvement    │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 `About Me`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boudali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-boudali&theme=tokyonight" alt="GitHub Streak" />
-</p>
+```
+  Developer by craft. Math enthusiast by nature. Quant in the making.
 
----
+  I build things that matter — from AI-powered enterprise platforms
+  to automated trading systems that run while you sleep.
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/said-ahmed-boudali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ahmed-boudali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:w.saidahmed.boudali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  Currently deep in: distributed systems · financial modeling · LLM integration
+  Learning:          quantitative finance · stochastic calculus · market microstructure
+  Repping:           Tunisia 🇹🇳 · ESPRIT · IEEE 
+```
 
 ---
 
-> 🧠 “Code is strategy. Architecture is clarity. Impact is everything.”  
-Let’s build something meaningful.
+## 🏗️ `Featured Projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 AI Finance & PM Platform *(PFE – bi4you)*
+`Feb 2026 → Aug 2026`
+
+Large-scale enterprise platform integrating **finance management** and **project operations** with embedded **AI agents** for automated decision-making, anomaly detection, and intelligent workflow orchestration.
+
+**Stack:** `Spring Boot` · `Angular` · `PostgreSQL` · `Python` · `AI/LLM` · `Docker`
+
+> *PFE project · Graduating upon soutenance 2026*
+
+</td>
+<td width="50%">
+
+### ⚡ Algorithmic Trading Solutions
+`2024 → 2025 · Private`
+
+Designed and deployed **automated scalping bots** and **algo strategies** for experienced Tunisian traders — backtested, risk-managed, and live-executed. Clients recorded **measurable gains in daily trading revenue**.
+
+**Stack:** `Python` · `TA-Lib` · `CCXT` · `Pandas` · `Broker APIs` · `Statistical Modeling`
+
+> *Private consulting · Production deployed*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 MILIM – AI Accounting Platform
+`Jan 2025 → May 2025`
+
+AI-driven accounting system targeting **Tunisian SME tax compliance**. ML models for transaction categorization with **92% accuracy** + financial forecasting dashboards.
+
+**Stack:** `React.js` · `Node.js` · `MongoDB` · `Python` · `Docker` · `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### 📡 Tariffs Tracker – Telecom Cloud
+`Jul–Aug 2025 · SFM Technologies`
+
+Collaborative cloud platform for **telecom regulators** to share SIM resources and benchmark tariff tests cross-instance, with real-time inter-instance notifications.
+
+**Stack:** `Angular 17` · `Spring Boot 3` · `MySQL` · `Docker` · `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 AGRIORBIT – AI Smart Agriculture
+`Dec 2024 · IEEE TSYP 12`
+
+AI-powered agricultural monitoring combining **NPK sensors**, **satellite imagery**, and **predictive analytics** for flood prediction and precision farming. Presented at IEEE national congress.
+
+**Stack:** `Python` · `ML/AI` · `Satellite Data APIs` · `IoT`
+
+</td>
+<td width="50%">
+
+### 🏥 Medical Platform – InTech Solutions
+`Jul–Aug 2024`
+
+Healthcare user management with role-based access (Doctors / Patients / Admins). Dynamic search reduced **data retrieval time by 90%**.
+
+**Stack:** `React` · `Django` · `PostgreSQL` · `JWT` · `Agile/Kanban`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 `International Experience`
+
+```
+┌─ Verona, Italy 🇮🇹 · Jun–Jul 2025 ──────────────────────────────────────┐
+│                                                                          │
+│  "Our Future – Young People, the Future is Plural" · Progettomondo      │
+│                                                                          │
+│  → Led workshops on Artificial Intelligence, LLMs & Generative AI       │
+│  → Delivered dev talks: software engineering & digital innovation        │
+│  → Co-designed a Global Education program for 100+ youth                │
+│  → Represented Tunisia alongside Italy & Morocco NGOs                   │
+│                                                                          │
+│  Published: progettomondo.org/giovani-il-futuro-e-plurale               │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 `GitHub Stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boudali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722&title_color=f0b429&icon_color=26a69a&text_color=d1d4dc" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-boudali&theme=tokyonight&hide_border=true&background=131722&ring=f0b429&fire=26a69a&currStreakLabel=f0b429" height="165" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-boudali&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722&title_color=f0b429&text_color=d1d4dc" height="120" alt="Top Languages"/>
+</div>
+
+---
+
+## 🤝 `Connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-ahmed-boudali)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-boudali)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.saidahmed.boudali@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*📌 Commit the `chart.svg` file to your repo root alongside this README for the chart to render.*
+
+</div>
